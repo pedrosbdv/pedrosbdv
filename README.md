@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudante de Analise e desenvolvimento de sistemas
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas e Cursando Sistema de Informação
 
 <div align="center">
   <a href="https://github.com/pedrosbdv">
