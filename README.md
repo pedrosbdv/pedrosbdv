@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Santos Basílio
 
-💻 Desenvolvedor de Software apaixonado por criar aplicações web escaláveis e sistemas em tempo real.
+💻 Desenvolvedor de Software apaixonado por criar aplicações.
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 📚 Atualmente cursando **Sistemas de Informação**
