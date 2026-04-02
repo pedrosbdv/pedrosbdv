@@ -14,7 +14,6 @@
 
 🌱 Atualmente estou me aprofundando em:
 
-* Java com Spring Boot
 * Sistemas em tempo real
 * Arquitetura de aplicações backend
 
